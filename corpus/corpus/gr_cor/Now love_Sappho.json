@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "author": "Sappho",
+        "title": "Now love"
+    },
+    "sentences": [
+        {
+            "text": "\u1f1d\u03c1\u03bf\u03c3 \u03b4\u03b1\u1f56\u03c4\u1f73 \u03bc\u1fbd \u1f40 \u03bb\u03c5\u03c3\u03b9\u03bc\u1f73\u03bb\u03b5\u03c3 \u03b4\u1f79\u03bd\u03b5\u03b9,",
+            "meta": {
+                "title": "Now love",
+                "author": "Sappho",
+                "metre": "sapphic stanza",
+                "prosody": "uu-uuuuuuu-"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u1f15\u03c1\u03bf\u03c3",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u1f15\u03c1\u03bf\u03c3",
+                            "gr.pos": "T"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b4\u03b1\u1f56\u03c4\u1f73",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03b4\u03b1\u1f56\u03c4\u1f73",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bc\u1fbd",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u03bc\u1fbd",
+                            "gr.pos": "P"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f40",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u1f40",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bb\u03c5\u03c3\u03b9\u03bc\u1f73\u03bb\u03b5\u03c3",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03bb\u03c5\u03c3\u03b9\u03bc\u1f73\u03bb\u03b5\u03c3",
+                            "gr.pos": "C"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b4\u1f79\u03bd\u03b5\u03b9",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03b4\u1f79\u03bd\u03b5\u03b9",
+                            "gr.pos": "V",
+                            "gr.pers": "3",
+                            "gr.num": "S",
+                            "gr.gen": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 6,
+                    "off_end": 6,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "U"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u03b3\u03bb\u03c5\u03ba\u1f7b\u03c0\u03b9\u03ba\u03c1\u03bf\u03bd \u1f00\u03bc\u1f71\u03c7\u03b1\u03bd\u03bf\u03bd \u1f44\u03c1\u03c0\u03b5\u03c4\u03bf\u03bd.",
+            "meta": {
+                "title": "Now love",
+                "author": "Sappho",
+                "metre": "sapphic stanza",
+                "prosody": "uuu-----uu-"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u03b3\u03bb\u03c5\u03ba\u1f7b\u03c0\u03b9\u03ba\u03c1\u03bf\u03bd",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03b3\u03bb\u03c5\u03ba\u1f7b\u03c0\u03b9\u03ba\u03c1\u03bf\u03bd",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f00\u03bc\u1f71\u03c7\u03b1\u03bd\u03bf\u03bd",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u1f00\u03bc\u1f71\u03c7\u03b1\u03bd\u03bf\u03bd",
+                            "gr.pos": "T"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f44\u03c1\u03c0\u03b5\u03c4\u03bf\u03bd.",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 2,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u1f44\u03c1\u03c0\u03b5\u03c4\u03bf\u03bd.",
+                            "gr.pos": "A"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

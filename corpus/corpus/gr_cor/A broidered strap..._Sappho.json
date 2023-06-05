@@ -1,0 +1,194 @@
+{
+    "meta": {
+        "author": "Sappho",
+        "title": "A broidered strap..."
+    },
+    "sentences": [
+        {
+            "text": "... \u03a0\u1f78\u03b4\u03b1\u03c3 \u03b4\u1f73",
+            "meta": {
+                "title": "A broidered strap...",
+                "author": "Sappho",
+                "metre": "sapphic stanza",
+                "prosody": "uu-u"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "...",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "...",
+                            "gr.pos": "U"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c0\u1f78\u03b4\u03b1\u03c3",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03c0\u1f78\u03b4\u03b1\u03c3",
+                            "gr.pos": "C"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b4\u1f73",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 2,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u03b4\u1f73",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u03c0\u03bf\u1f77\u03ba\u03b9\u03bb\u03bf\u03c3 \u03bc\u1f71\u03c3\u03bb\u03b7\u03c3 \u1f10\u03ba\u1f71\u03bb\u03c5\u03c0\u03c4\u03b5, \u039b\u1f7b\u03b4\u03b9\u03bf\u03bd \u03ba\u1f71\u03bb\u03bf\u03bd \u1f14\u03c1\u03b3\u03bf\u03bd.",
+            "meta": {
+                "title": "A broidered strap...",
+                "author": "Sappho",
+                "metre": "sapphic stanza",
+                "prosody": "-uu--u-uuuuu--u-"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u03c0\u03bf\u1f77\u03ba\u03b9\u03bb\u03bf\u03c3",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u03c0\u03bf\u1f77\u03ba\u03b9\u03bb\u03bf\u03c3",
+                            "gr.pos": "T"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bc\u1f71\u03c3\u03bb\u03b7\u03c3",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03bc\u1f71\u03c3\u03bb\u03b7\u03c3",
+                            "gr.pos": "C"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f10\u03ba\u1f71\u03bb\u03c5\u03c0\u03c4\u03b5",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u1f10\u03ba\u1f71\u03bb\u03c5\u03c0\u03c4\u03b5",
+                            "gr.pos": "V",
+                            "gr.pers": "3",
+                            "gr.num": "S",
+                            "gr.gen": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "U"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bb\u1f7b\u03b4\u03b9\u03bf\u03bd",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03bb\u1f7b\u03b4\u03b9\u03bf\u03bd",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03ba\u1f71\u03bb\u03bf\u03bd",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03ba\u1f71\u03bb\u03bf\u03bd",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f14\u03c1\u03b3\u03bf\u03bd.",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 6,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u1f14\u03c1\u03b3\u03bd\u03c5\u03bc\u03b9.",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "N",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

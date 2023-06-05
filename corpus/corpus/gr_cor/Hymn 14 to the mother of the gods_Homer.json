@@ -1,0 +1,881 @@
+{
+    "meta": {
+        "author": "Homer",
+        "title": "Hymn 14 to the mother of the gods"
+    },
+    "sentences": [
+        {
+            "text": "\u03bc\u03b7\u03c4\u03ad\u03c1\u03b1 \u03bc\u03bf\u03b9 \u03c0\u03ac\u03bd\u03c4\u03c9\u03bd \u03c4\u03b5 \u03b8\u03b5\u1ff6\u03bd \u03c0\u03ac\u03bd\u03c4\u03c9\u03bd \u03c4\u02bc \u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd",
+            "meta": {
+                "title": "Hymn 14 to the mother of the gods",
+                "author": "Homer",
+                "metre": "dactylic hexameter",
+                "prosody": "-uu---uu------"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u03bc\u03b7\u03c4\u03ad\u03c1\u03b1",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "\u03bc\u03ae\u03c4\u03b7\u03c1",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bc\u03bf\u03b9",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u1f10\u03b3\u03ce",
+                            "gr.pos": "P"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03c0\u03b1\u0342\u03c2",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u03b5",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u03b5",
+                            "gr.pos": "G"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b8\u03b5\u1ff6\u03bd",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u03b8\u03b5\u03ac\u03c9",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03c0\u03b1\u0342\u03c2",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u02bc",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u02bc",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f00\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 7,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u1f55\u03bc\u03bd\u03b5\u03b9, \u039c\u03bf\u1fe6\u03c3\u03b1 \u03bb\u03af\u03b3\u03b5\u03b9\u03b1, \u0394\u03b9\u1f78\u03c2 \u03b8\u03c5\u03b3\u03ac\u03c4\u03b7\u03c1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf\u03b9\u03bf,",
+            "meta": {
+                "title": "Hymn 14 to the mother of the gods",
+                "author": "Homer",
+                "metre": "dactylic hexameter",
+                "prosody": "---uu-uuuuu-uu--"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u1f55\u03bc\u03bd\u03b5\u03b9",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "\u1f51\u03bc\u03bd\u03ad\u03c9",
+                            "gr.pos": "V",
+                            "gr.pers": "3",
+                            "gr.num": "S",
+                            "gr.gen": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "U"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bc\u03bf\u1fe6\u03c3\u03b1",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u03bc\u03bf\u03c5\u0342\u03c3\u03b1",
+                            "gr.pos": "T"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bb\u03af\u03b3\u03b5\u03b9\u03b1",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03bb\u03b9\u03b3\u03cd\u03c2",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "U"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b4\u03b9\u1f78\u03c2",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u03b4\u03b9\u1f78\u03c2",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b8\u03c5\u03b3\u03ac\u03c4\u03b7\u03c1",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03b8\u03c5\u03b3\u03ac\u03c4\u03b7\u03c1",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bc\u03b5\u03b3\u03ac\u03bb\u03bf\u03b9\u03bf",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 8,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03bc\u03ad\u03b3\u03b1\u03c2",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "U"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u1f97 \u03ba\u03c1\u03bf\u03c4\u03ac\u03bb\u03c9\u03bd \u03c4\u03c5\u03c0\u03ac\u03bd\u03c9\u03bd \u03c4\u02bc \u1f30\u03b1\u03c7\u1f74 \u03c3\u03cd\u03bd \u03c4\u03b5 \u03b2\u03c1\u03cc\u03bc\u03bf\u03c2 \u03b1\u1f50\u03bb\u1ff6\u03bd",
+            "meta": {
+                "title": "Hymn 14 to the mother of the gods",
+                "author": "Homer",
+                "metre": "dactylic hexameter",
+                "prosody": "-uu-uu-uu-uuu---"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u1f97",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "\u1f35\u03b7\u03bc\u03b9",
+                            "gr.pos": "P"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03ba\u03c1\u03bf\u03c4\u03ac\u03bb\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "\u03ba\u03c1\u03cc\u03c4\u03b1\u03bb\u03bf\u03c2",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u03c5\u03c0\u03ac\u03bd\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u03cd\u03c0\u03b1\u03bd\u03bf\u03bd",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u02bc",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u02bc",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f30\u03b1\u03c7\u1f74",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u1f30\u03b1\u03c7\u1f74",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c3\u03cd\u03bd",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u03c3\u03cd\u03bd",
+                            "gr.pos": "R"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u03b5",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u03b5",
+                            "gr.pos": "G"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b2\u03c1\u03cc\u03bc\u03bf\u03c2",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 8,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03b2\u03c1\u03cc\u03bc\u03bf\u03c2",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b1\u1f50\u03bb\u1ff6\u03bd",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 8,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u03b1\u03c5\u0313\u03bb\u03ad\u03c9",
+                            "gr.pos": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u03b5\u1f54\u03b1\u03b4\u03b5\u03bd \u1f20\u03b4\u1f72 \u03bb\u03cd\u03ba\u03c9\u03bd \u03ba\u03bb\u03b1\u03b3\u03b3\u1f74 \u03c7\u03b1\u03c1\u03bf\u03c0\u1ff6\u03bd \u03c4\u03b5 \u03bb\u03b5\u03cc\u03bd\u03c4\u03c9\u03bd",
+            "meta": {
+                "title": "Hymn 14 to the mother of the gods",
+                "author": "Homer",
+                "metre": "dactylic hexameter",
+                "prosody": "-u--uu---uu-uu--"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u03b5\u1f54\u03b1\u03b4\u03b5\u03bd",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u1f01\u03bd\u03b4\u03ac\u03bd\u03c9",
+                            "gr.pos": "V",
+                            "gr.pers": "3",
+                            "gr.num": "S",
+                            "gr.gen": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f20\u03b4\u1f72",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u1f20\u03b4\u1f72",
+                            "gr.pos": "C"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bb\u03cd\u03ba\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u03bb\u03cd\u03ba\u03bf\u03c2",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03ba\u03bb\u03b1\u03b3\u03b3\u1f74",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u03ba\u03bb\u03b1\u03b3\u03b3\u1f74",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c7\u03b1\u03c1\u03bf\u03c0\u1ff6\u03bd",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03c7\u03b1\u03c1\u03bf\u03c0\u03cc\u03c2",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u03b5",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u03b5",
+                            "gr.pos": "G"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bb\u03b5\u03cc\u03bd\u03c4\u03c9\u03bd",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 6,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u03bb\u03ad\u03c9\u03bd",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u03bf\u1f54\u03c1\u03b5\u03ac \u03c4\u02bc \u1f20\u03c7\u03ae\u03b5\u03bd\u03c4\u03b1 \u03ba\u03b1\u1f76 \u1f51\u03bb\u03ae\u03b5\u03bd\u03c4\u03b5\u03c2 \u1f14\u03bd\u03b1\u03c5\u03bb\u03bf\u03b9.",
+            "meta": {
+                "title": "Hymn 14 to the mother of the gods",
+                "author": "Homer",
+                "metre": "dactylic hexameter",
+                "prosody": "-uu---u-u---u--"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u03bf\u1f54\u03c1\u03b5\u03ac",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03bf\u1f54\u03c1\u03b5\u03ac",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "N",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c4\u02bc",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u03c4\u02bc",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f20\u03c7\u03ae\u03b5\u03bd\u03c4\u03b1",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u1f20\u03c7\u03ae\u03b5\u03b9\u03c2",
+                            "gr.pos": "T"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03ba\u03b1\u1f76",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u03ba\u03b1\u1f76",
+                            "gr.pos": "C"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f51\u03bb\u03ae\u03b5\u03bd\u03c4\u03b5\u03c2",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u1f51\u03bb\u03ae\u03b5\u03b9\u03c2",
+                            "gr.pos": "T"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f14\u03bd\u03b1\u03c5\u03bb\u03bf\u03b9.",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 5,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u1f14\u03bd\u03b1\u03c5\u03bb\u03bf\u03c2.",
+                            "gr.pos": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "\u03ba\u03b1\u1f76 \u03c3\u1f7a \u03bc\u1f72\u03bd \u03bf\u1f55\u03c4\u03c9 \u03c7\u03b1\u1fd6\u03c1\u03b5 \u03b8\u03b5\u03b1\u03af \u03b8\u02bc \u1f05\u03bc\u03b1 \u03c0\u1fb6\u03c3\u03b1\u03b9 \u1f00\u03bf\u03b9\u03b4\u1fc7.",
+            "meta": {
+                "title": "Hymn 14 to the mother of the gods",
+                "author": "Homer",
+                "metre": "dactylic hexameter",
+                "prosody": "-u----uu-uuu-u--"
+            },
+            "lang": 0,
+            "words": [
+                {
+                    "wf": "\u03ba\u03b1\u1f76",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "lex": "\u03ba\u03b1\u1f76",
+                            "gr.pos": "C"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c3\u1f7a",
+                    "wtype": "word",
+                    "off_start": 1,
+                    "off_end": 2,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "lex": "\u03c3\u1f7a",
+                            "gr.pos": "P"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bc\u1f72\u03bd",
+                    "wtype": "word",
+                    "off_start": 2,
+                    "off_end": 3,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "lex": "\u03bc\u1f72\u03bd",
+                            "gr.pos": "G"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03bf\u1f55\u03c4\u03c9",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 4,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+                            "gr.pos": "D"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c7\u03b1\u1fd6\u03c1\u03b5",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u03c7\u03b1\u03af\u03c1\u03c9",
+                            "gr.pos": "V",
+                            "gr.pers": "2",
+                            "gr.num": "S",
+                            "gr.gen": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b8\u03b5\u03b1\u03af",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u03b8\u03b5\u03ac",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03b8\u02bc",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u03b8\u02bc",
+                            "gr.pos": "N",
+                            "gr.num": "P",
+                            "gr.gen": "M",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f05\u03bc\u03b1",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 8,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u1f05\u03bc\u03b1",
+                            "gr.pos": "D"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u03c0\u1fb6\u03c3\u03b1\u03b9",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 9,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u03c0\u03b1\u0342\u03c2",
+                            "gr.pos": "A"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u1f00\u03bf\u03b9\u03b4\u1fc7.",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 9,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u1f00\u03bf\u03b9\u03b4\u03ae.",
+                            "gr.pos": "N",
+                            "gr.num": "S",
+                            "gr.gen": "F",
+                            "gr.pers": "Not Applicable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
